@@ -2,8 +2,6 @@ import logging
 import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler
-from google_table import GooogleWorksheets
-from database import DataBase
 import message_texts
 
 logging.basicConfig(
