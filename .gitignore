@@ -1,2 +1,5 @@
 .env
 venv/
+__pycache__/
+quickstart.py
+service_account.json
